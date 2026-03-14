@@ -1,0 +1,8 @@
+# Add all files
+git add .
+
+# Commit with message
+git commit -m "Initial project setup with basic structure"
+
+# Push to GitHub
+git push origin main
