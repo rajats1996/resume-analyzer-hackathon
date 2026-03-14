@@ -1,0 +1,11 @@
+# After making changes to your code
+git add .
+git commit -m "Added resume parser functionality"
+git push origin main
+
+# After adding AI features
+git add .
+git commit -m "Integrated OpenAI for summary generation"
+git push origin main
+
+# Keep pushing as you build features!
