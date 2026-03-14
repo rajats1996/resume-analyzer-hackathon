@@ -1,0 +1,16 @@
+resume-analyzer-hackathon/
+├── app.py
+├── requirements.txt
+├── .gitignore
+├── README.md (GitHub will already have this)
+├── parsers/
+│   └── resume_parser.py
+├── analyzers/
+│   ├── skills_extractor.py
+│   └── rating_engine.py
+├── ai/
+│   └── llm_service.py
+├── utils/
+│   └── helpers.py
+└── data/
+    └── skills_taxonomy.json
